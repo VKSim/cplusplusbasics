@@ -12,7 +12,7 @@ int main()
     std::cout << 11 + 6 + 29 << '\n';
 
     std::cout << "Let's Rock C++...\n";
-    std::cout << "feature 2 commit...\n";
+    std::cout << "SecondCommit- 2 commit...\n";
     return 0;
 }
 
