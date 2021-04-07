@@ -2,6 +2,8 @@
 //
 
 #include <iostream>
+using std::cout;
+using std::cin;
 
 int main()
 {
@@ -9,6 +11,21 @@ int main()
     std::cout << "Excercise-1" << '\n';
     std::cout << "Sum of 2+3 ="<<2 + 3 << '\n';
     std::cout << 8.314 << '\n';
+
+    int i = 10;
+    cout << i << '\n';
+    i = 2 + 2;
+    cout << i << '\n';
+    i = i * 3;
+    cout << i << '\n';
+
+    int j = 2;
+    j = 9 / 5;
+    cout << j << '\n';
+
+    float f = 5;
+    f = 9.0 / 5;
+    cout << f << '\n';
 
     return 0;
 }
