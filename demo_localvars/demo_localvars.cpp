@@ -6,6 +6,11 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    std::cout << "Excercise-1" << '\n';
+    std::cout << "Sum of 2+3 ="<<2 + 3 << '\n';
+    std::cout << 8.314 << '\n';
+
+    return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
