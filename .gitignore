@@ -215,3 +215,4 @@ $RECYCLE.BIN/
 *.msp
 *.db-shm
 *.db-wal
+*.db
